@@ -37,5 +37,5 @@ Then check the IP address, which is the consistent with YiLu proxy IP you select
 ![Proxy Helper extension](https://api.yilu.us/wp-content/uploads/2023/03/proxy-helper-check-ip-address-8.png "Proxy Helper extension")  
 
 The article is from https://yilu.us/integration/how-to-use-proxy-helper-chrome-extension-with-yilu-proxy  
-YiLu Socks5 [residential proxy](https://yilu.us/trial) trial: https://yilu.us/trial  
+YiLu Socks5 [residential proxy trial](https://yilu.us/trial): https://yilu.us/trial  
 Video tutorial: https://www.youtube.com/watch?v=x3EsPQ2-jJI
