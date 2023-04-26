@@ -3,7 +3,7 @@ A step-by-step tutorial about how to use the [Proxy Helper](https://yilu.us/inte
 
 Proxy Helper is an extension that can manage Socks4, Socks5, HTTP, HTTPS, and QUIC proxy settings in the Google Chrome browser.
 Next, I will share with you a step-by-step tutorial about how to use the Proxy Helper Chrome extension with YiLu Proxy.
-![proxy helper yilu proxy](https://api.yilu.us/wp-content/uploads/2023/03/proxy-helper-1.png "proxy helper yilu proxy")
+[![proxy helper yilu proxy](https://api.yilu.us/wp-content/uploads/2023/03/proxy-helper-1.png "proxy helper yilu proxy")](https://www.youtube.com/watch?v=x3EsPQ2-jJI)
 
 ## 1. Download and install the Proxy Helper extension.
 Install Proxy Helper extension in Google Chrome browser from Chrome web store: https://chrome.google.com/webstore/detail/proxy-helper/mnloefcpaepkpmhaoipjkpikbnkmbnic
@@ -31,9 +31,10 @@ h. Paste the server IP and port;
 i. Paste the username and password.  
 ![Proxy Helper extension](https://api.yilu.us/wp-content/uploads/2023/03/proxy-helper-paste-username-password-6.png "Proxy Helper extension")  
 ## 4. Use a Proxy.  
-Click the Proxy Helper icon and select a proxy to use.  
+Click the [Proxy Helper](https://www.youtube.com/watch?v=x3EsPQ2-jJI) icon and select a proxy to use.  
 ![Proxy Helper extension](https://api.yilu.us/wp-content/uploads/2023/03/proxy-helper-use-proxy-7.png "Proxy Helper extension")  
 Then check the IP address, which is the consistent with YiLu proxy IP you selected.  
 ![Proxy Helper extension](https://api.yilu.us/wp-content/uploads/2023/03/proxy-helper-check-ip-address-8.png "Proxy Helper extension")  
 
 The article is from https://yilu.us/integration/how-to-use-proxy-helper-chrome-extension-with-yilu-proxy
+Video tutorial: https://www.youtube.com/watch?v=x3EsPQ2-jJI
