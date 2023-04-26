@@ -36,5 +36,5 @@ Click the [Proxy Helper](https://www.youtube.com/watch?v=x3EsPQ2-jJI) icon and s
 Then check the IP address, which is the consistent with YiLu proxy IP you selected.  
 ![Proxy Helper extension](https://api.yilu.us/wp-content/uploads/2023/03/proxy-helper-check-ip-address-8.png "Proxy Helper extension")  
 
-The article is from https://yilu.us/integration/how-to-use-proxy-helper-chrome-extension-with-yilu-proxy
+The article is from https://yilu.us/integration/how-to-use-proxy-helper-chrome-extension-with-yilu-proxy  
 Video tutorial: https://www.youtube.com/watch?v=x3EsPQ2-jJI
