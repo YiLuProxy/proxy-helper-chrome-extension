@@ -1,4 +1,4 @@
-# How to use Proxy Helper extension on Goole Chrome browser?
+# How to use Proxy Helper extension on Google Chrome browser?
 A step-by-step tutorial about how to use the [Proxy Helper](https://yilu.us/integration/how-to-use-proxy-helper-chrome-extension-with-yilu-proxy) Chrome extension with [YiLu Proxy](https://yilu.us/).
 
 Proxy Helper is an extension that can manage Socks4, Socks5, HTTP, HTTPS, and QUIC proxy settings in the Google Chrome browser.
