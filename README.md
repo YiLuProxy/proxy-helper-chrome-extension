@@ -11,7 +11,8 @@ Install Proxy Helper extension in Google Chrome browser from Chrome web store: h
 Right-click the icon of the Proxy Helper extension then click “Options”.  
 ![proxy helper option](https://api.yilu.us/wp-content/uploads/2023/03/proxy-helper-option-2.png "proxy helper option")
 ## 3. Set up a Proxy.
-### A. Local port forwardingFor all YiLu Proxy static IPs, right-click an IP and select a port.
+### A. Local port forwarding  
+For all YiLu Proxy static IPs, right-click an IP and select a port.
 ![Proxy Helper extension](https://api.yilu.us/wp-content/uploads/2023/03/proxy-helper-port-forwarding-3.png "Proxy Helper extension")
 
 YiLu Proxy supports Socks5 and HTTP protocols.
